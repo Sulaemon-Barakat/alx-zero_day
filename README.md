@@ -1,3 +1,1 @@
-*My first readme
-*My first readme*
-My first readme
+ALX software engineering course is not for the weak.
